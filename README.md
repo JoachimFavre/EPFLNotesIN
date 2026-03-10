@@ -62,3 +62,5 @@ I think it is worth mentioning that in order to get these notes typed up, I took
 ## Acknowledgement
 
 Thank you to [Alberts Reisons](https://github.com/Aderfish) and [Vlad Dancau](https://github.com/vladdancau) who made push requests with small modifications to my BA1 notes and whose contribution was erased by an early reset of the repository. Thank you to [Paul Tissot-Daguette](https://github.com/paultisaw) for all his offline proofreading of the BA1 documents. Thank you to everyone who pointed out mistakes to me.
+
+Thank you to EPFL's IC student association for [giving me a medal](https://www.linkedin.com/posts/joachimfavre_i-received-a-medal-from-clic-epfl-for-the-activity-7403595633028239360-OhmL) for these notes, and thank you to every one who used them.
